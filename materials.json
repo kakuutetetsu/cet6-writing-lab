@@ -1,0 +1,1001 @@
+[
+  {
+    "id": "s1-A",
+    "section": "第一段：引入话题",
+    "slotNumber": 1,
+    "slotLabel": "主题",
+    "category": "A",
+    "categoryName": "教育学习",
+    "grammarType": "名词或名词短语",
+    "chinese": "自主学习",
+    "english": "independent learning",
+    "variant": "base",
+    "chunks": [
+      "independent",
+      "learning"
+    ],
+    "explanation": "主题作模板首句的主语；名词或名词短语整体表达讨论对象。"
+  },
+  {
+    "id": "s1-B",
+    "section": "第一段：引入话题",
+    "slotNumber": 1,
+    "slotLabel": "主题",
+    "category": "B",
+    "categoryName": "自律成长",
+    "grammarType": "名词或名词短语",
+    "chinese": "自律",
+    "english": "self-discipline",
+    "variant": "base",
+    "chunks": [
+      "self-discipline"
+    ],
+    "explanation": "主题作模板首句的主语；名词或名词短语整体表达讨论对象。"
+  },
+  {
+    "id": "s1-C",
+    "section": "第一段：引入话题",
+    "slotNumber": 1,
+    "slotLabel": "主题",
+    "category": "C",
+    "categoryName": "科技AI",
+    "grammarType": "名词或名词短语",
+    "chinese": "数字素养",
+    "english": "digital literacy",
+    "variant": "base",
+    "chunks": [
+      "digital",
+      "literacy"
+    ],
+    "explanation": "主题作模板首句的主语；名词或名词短语整体表达讨论对象。"
+  },
+  {
+    "id": "s1-D",
+    "section": "第一段：引入话题",
+    "slotNumber": 1,
+    "slotLabel": "主题",
+    "category": "D",
+    "categoryName": "社会责任",
+    "grammarType": "名词或名词短语",
+    "chinese": "责任感",
+    "english": "a sense of responsibility",
+    "variant": "base",
+    "chunks": [
+      "a",
+      "sense",
+      "of",
+      "responsibility"
+    ],
+    "explanation": "主题作模板首句的主语；名词或名词短语整体表达讨论对象。"
+  },
+  {
+    "id": "s2-A",
+    "section": "第一段：引入话题",
+    "slotNumber": 2,
+    "slotLabel": "个人观点、解决措施或选择",
+    "category": "A",
+    "categoryName": "教育学习",
+    "grammarType": "完整句子",
+    "chinese": "学生应该积极主动地参与自己的学习",
+    "english": "students should take an active role in their own learning",
+    "variant": "base",
+    "chunks": [
+      "students should",
+      "take an active role",
+      "in their own learning"
+    ],
+    "explanation": "先写主语，再接 should + 动词原形；并列动作保持动词形式一致。"
+  },
+  {
+    "id": "s2-B",
+    "section": "第一段：引入话题",
+    "slotNumber": 2,
+    "slotLabel": "个人观点、解决措施或选择",
+    "category": "B",
+    "categoryName": "自律成长",
+    "grammarType": "完整句子",
+    "chinese": "学生应该培养自律能力并设定合理目标",
+    "english": "students should develop self-discipline and set realistic goals",
+    "variant": "base",
+    "chunks": [
+      "students should",
+      "develop self-discipline",
+      "and set realistic goals"
+    ],
+    "explanation": "先写主语，再接 should + 动词原形；并列动作保持动词形式一致。"
+  },
+  {
+    "id": "s2-C",
+    "section": "第一段：引入话题",
+    "slotNumber": 2,
+    "slotLabel": "个人观点、解决措施或选择",
+    "category": "C",
+    "categoryName": "科技AI",
+    "grammarType": "完整句子",
+    "chinese": "学生应该合理使用数字工具并保持独立思考",
+    "english": "students should use digital tools wisely and think independently",
+    "variant": "base",
+    "chunks": [
+      "students should",
+      "use digital tools wisely",
+      "and think independently"
+    ],
+    "explanation": "先写主语，再接 should + 动词原形；并列动作保持动词形式一致。"
+  },
+  {
+    "id": "s2-D",
+    "section": "第一段：引入话题",
+    "slotNumber": 2,
+    "slotLabel": "个人观点、解决措施或选择",
+    "category": "D",
+    "categoryName": "社会责任",
+    "grammarType": "完整句子",
+    "chinese": "年轻人应该为自己的行为负责",
+    "english": "young people should take responsibility for their actions",
+    "variant": "base",
+    "chunks": [
+      "young people should",
+      "take responsibility",
+      "for their actions"
+    ],
+    "explanation": "先写主语，再接 should + 动词原形；并列动作保持动词形式一致。"
+  },
+  {
+    "id": "s3-A",
+    "section": "第二段：论证主体前半部分",
+    "slotNumber": 3,
+    "slotLabel": "理由1",
+    "category": "A",
+    "categoryName": "教育学习",
+    "grammarType": "完整句子",
+    "chinese": "自主学习帮助学生发现自身的薄弱环节",
+    "english": "independent learning helps students identify their weaknesses",
+    "variant": "base",
+    "chunks": [
+      "independent learning",
+      "helps students",
+      "identify their weaknesses"
+    ],
+    "explanation": "先定位主语和谓语。help somebody do something 表示帮助某人做某事；can 后接动词原形。"
+  },
+  {
+    "id": "s3-B",
+    "section": "第二段：论证主体前半部分",
+    "slotNumber": 3,
+    "slotLabel": "理由1",
+    "category": "B",
+    "categoryName": "自律成长",
+    "grammarType": "完整句子",
+    "chinese": "自律帮助学生有效管理时间",
+    "english": "self-discipline helps students manage their time effectively",
+    "variant": "base",
+    "chunks": [
+      "self-discipline",
+      "helps students",
+      "manage their time",
+      "effectively"
+    ],
+    "explanation": "先定位主语和谓语。help somebody do something 表示帮助某人做某事；can 后接动词原形。"
+  },
+  {
+    "id": "s3-C",
+    "section": "第二段：论证主体前半部分",
+    "slotNumber": 3,
+    "slotLabel": "理由1",
+    "category": "C",
+    "categoryName": "科技AI",
+    "grammarType": "完整句子",
+    "chinese": "数字技能能够提高学生的学习效率",
+    "english": "digital skills can improve students' learning efficiency",
+    "variant": "base",
+    "chunks": [
+      "digital skills",
+      "can improve",
+      "students' learning efficiency"
+    ],
+    "explanation": "先定位主语和谓语。help somebody do something 表示帮助某人做某事；can 后接动词原形。"
+  },
+  {
+    "id": "s3-D",
+    "section": "第二段：论证主体前半部分",
+    "slotNumber": 3,
+    "slotLabel": "理由1",
+    "category": "D",
+    "categoryName": "社会责任",
+    "grammarType": "完整句子",
+    "chinese": "负责任的行为有助于人们建立信任",
+    "english": "responsible behavior helps people build trust",
+    "variant": "base",
+    "chunks": [
+      "responsible behavior",
+      "helps people",
+      "build trust"
+    ],
+    "explanation": "先定位主语和谓语。help somebody do something 表示帮助某人做某事；can 后接动词原形。"
+  },
+  {
+    "id": "s4-A",
+    "section": "第二段：论证主体前半部分",
+    "slotNumber": 4,
+    "slotLabel": "解释",
+    "category": "A",
+    "categoryName": "教育学习",
+    "grammarType": "完整句子",
+    "chinese": "它鼓励学生复习错误并改进学习方法",
+    "english": "it encourages them to review mistakes and improve their study methods",
+    "variant": "base",
+    "chunks": [
+      "it encourages them",
+      "to review mistakes",
+      "and improve",
+      "their study methods"
+    ],
+    "explanation": "本项接 because，保留完整主语和谓语。encourage somebody to do something；focus on 后接关注对象。"
+  },
+  {
+    "id": "s4-B",
+    "section": "第二段：论证主体前半部分",
+    "slotNumber": 4,
+    "slotLabel": "解释",
+    "category": "B",
+    "categoryName": "自律成长",
+    "grammarType": "完整句子",
+    "chinese": "他们可以避免分心并专注于重要任务",
+    "english": "they can avoid distractions and focus on important tasks",
+    "variant": "base",
+    "chunks": [
+      "they can",
+      "avoid distractions",
+      "and focus on",
+      "important tasks"
+    ],
+    "explanation": "本项接 because，保留完整主语和谓语。encourage somebody to do something；focus on 后接关注对象。"
+  },
+  {
+    "id": "s4-C",
+    "section": "第二段：论证主体前半部分",
+    "slotNumber": 4,
+    "slotLabel": "解释",
+    "category": "C",
+    "categoryName": "科技AI",
+    "grammarType": "完整句子",
+    "chinese": "这些技能帮助学生获取有用信息并更高效地完成任务",
+    "english": "they help students find useful information and complete tasks more efficiently",
+    "variant": "base",
+    "chunks": [
+      "they help students",
+      "find useful information",
+      "and complete tasks",
+      "more efficiently"
+    ],
+    "explanation": "本项接 because，保留完整主语和谓语。encourage somebody to do something；focus on 后接关注对象。"
+  },
+  {
+    "id": "s4-D",
+    "section": "第二段：论证主体前半部分",
+    "slotNumber": 4,
+    "slotLabel": "解释",
+    "category": "D",
+    "categoryName": "社会责任",
+    "grammarType": "完整句子",
+    "chinese": "它鼓励人们信守承诺并完成共同任务",
+    "english": "it encourages them to keep promises and complete shared tasks",
+    "variant": "base",
+    "chunks": [
+      "it encourages them",
+      "to keep promises",
+      "and complete",
+      "shared tasks"
+    ],
+    "explanation": "本项接 because，保留完整主语和谓语。encourage somebody to do something；focus on 后接关注对象。"
+  },
+  {
+    "id": "s5-A",
+    "section": "第二段：论证主体前半部分",
+    "slotNumber": 5,
+    "slotLabel": "例子",
+    "category": "A",
+    "categoryName": "教育学习",
+    "grammarType": "完整句子",
+    "chinese": "学生在考试后检查自己的错误",
+    "english": "students check their mistakes after a test",
+    "variant": "base",
+    "chunks": [
+      "students",
+      "check their mistakes",
+      "after a test"
+    ],
+    "explanation": "模板已提供 when，本项写主语 + 动词 + 宾语，并把时间或目的修饰放在合适位置。"
+  },
+  {
+    "id": "s5-B",
+    "section": "第二段：论证主体前半部分",
+    "slotNumber": 5,
+    "slotLabel": "例子",
+    "category": "B",
+    "categoryName": "自律成长",
+    "grammarType": "完整句子",
+    "chinese": "学生遵循每周学习计划",
+    "english": "students follow a weekly study plan",
+    "variant": "base",
+    "chunks": [
+      "students",
+      "follow",
+      "a weekly study plan"
+    ],
+    "explanation": "模板已提供 when，本项写主语 + 动词 + 宾语，并把时间或目的修饰放在合适位置。"
+  },
+  {
+    "id": "s5-C",
+    "section": "第二段：论证主体前半部分",
+    "slotNumber": 5,
+    "slotLabel": "例子",
+    "category": "C",
+    "categoryName": "科技AI",
+    "grammarType": "完整句子",
+    "chinese": "学生使用在线资源复习困难的课程内容",
+    "english": "students use online resources to review a difficult lesson",
+    "variant": "base",
+    "chunks": [
+      "students",
+      "use online resources",
+      "to review",
+      "a difficult lesson"
+    ],
+    "explanation": "模板已提供 when，本项写主语 + 动词 + 宾语，并把时间或目的修饰放在合适位置。"
+  },
+  {
+    "id": "s5-D",
+    "section": "第二段：论证主体前半部分",
+    "slotNumber": 5,
+    "slotLabel": "例子",
+    "category": "D",
+    "categoryName": "社会责任",
+    "grammarType": "完整句子",
+    "chinese": "学生志愿者认真准备社区活动",
+    "english": "student volunteers prepare carefully for a community activity",
+    "variant": "base",
+    "chunks": [
+      "student volunteers",
+      "prepare carefully",
+      "for a community activity"
+    ],
+    "explanation": "模板已提供 when，本项写主语 + 动词 + 宾语，并把时间或目的修饰放在合适位置。"
+  },
+  {
+    "id": "s6-A",
+    "section": "第二段：论证主体前半部分",
+    "slotNumber": 6,
+    "slotLabel": "结果",
+    "category": "A",
+    "categoryName": "教育学习",
+    "grammarType": "名词短语",
+    "chinese": "对困难概念更深入的理解",
+    "english": "a better understanding of difficult concepts",
+    "variant": "base",
+    "chunks": [
+      "a better understanding",
+      "of difficult concepts"
+    ],
+    "explanation": "这些表达均为名词短语，可作 the result is 后的表语。understanding 后用 of 引出理解的对象；and 可连接同类名词短语。"
+  },
+  {
+    "id": "s6-B",
+    "section": "第二段：论证主体前半部分",
+    "slotNumber": 6,
+    "slotLabel": "结果",
+    "category": "B",
+    "categoryName": "自律成长",
+    "grammarType": "名词短语",
+    "chinese": "更好的时间管理和稳定的进步",
+    "english": "better time management and steady progress",
+    "variant": "base",
+    "chunks": [
+      "better time management",
+      "and steady progress"
+    ],
+    "explanation": "这些表达均为名词短语，可作 the result is 后的表语。understanding 后用 of 引出理解的对象；and 可连接同类名词短语。"
+  },
+  {
+    "id": "s6-C",
+    "section": "第二段：论证主体前半部分",
+    "slotNumber": 6,
+    "slotLabel": "结果",
+    "category": "C",
+    "categoryName": "科技AI",
+    "grammarType": "名词短语",
+    "chinese": "对这门学科更清晰的理解",
+    "english": "a clearer understanding of the subject",
+    "variant": "base",
+    "chunks": [
+      "a clearer understanding",
+      "of the subject"
+    ],
+    "explanation": "这些表达均为名词短语，可作 the result is 后的表语。understanding 后用 of 引出理解的对象；and 可连接同类名词短语。"
+  },
+  {
+    "id": "s6-D",
+    "section": "第二段：论证主体前半部分",
+    "slotNumber": 6,
+    "slotLabel": "结果",
+    "category": "D",
+    "categoryName": "社会责任",
+    "grammarType": "名词短语",
+    "chinese": "更好的团队合作和更强的信任",
+    "english": "better teamwork and greater trust",
+    "variant": "base",
+    "chunks": [
+      "better teamwork",
+      "and greater trust"
+    ],
+    "explanation": "这些表达均为名词短语，可作 the result is 后的表语。understanding 后用 of 引出理解的对象；and 可连接同类名词短语。"
+  },
+  {
+    "id": "s7-A",
+    "section": "第二段：论证主体后半部分",
+    "slotNumber": 7,
+    "slotLabel": "理由2",
+    "category": "A",
+    "categoryName": "教育学习",
+    "grammarType": "名词短语",
+    "chinese": "实践经验的重要性",
+    "english": "the importance of practical experience",
+    "variant": "base",
+    "chunks": [
+      "the importance",
+      "of practical experience"
+    ],
+    "explanation": "名词短语作 Another point worth considering is 后的表语；importance/value/need 是中心词，of 或 for 短语补充对象。"
+  },
+  {
+    "id": "s7-B",
+    "section": "第二段：论证主体后半部分",
+    "slotNumber": 7,
+    "slotLabel": "理由2",
+    "category": "B",
+    "categoryName": "自律成长",
+    "grammarType": "名词短语",
+    "chinese": "明确目标的价值",
+    "english": "the value of clear goals",
+    "variant": "base",
+    "chunks": [
+      "the value",
+      "of clear goals"
+    ],
+    "explanation": "名词短语作 Another point worth considering is 后的表语；importance/value/need 是中心词，of 或 for 短语补充对象。"
+  },
+  {
+    "id": "s7-C",
+    "section": "第二段：论证主体后半部分",
+    "slotNumber": 7,
+    "slotLabel": "理由2",
+    "category": "C",
+    "categoryName": "科技AI",
+    "grammarType": "名词短语",
+    "chinese": "独立判断的必要性",
+    "english": "the need for independent judgment",
+    "variant": "base",
+    "chunks": [
+      "the need",
+      "for independent judgment"
+    ],
+    "explanation": "名词短语作 Another point worth considering is 后的表语；importance/value/need 是中心词，of 或 for 短语补充对象。"
+  },
+  {
+    "id": "s7-D",
+    "section": "第二段：论证主体后半部分",
+    "slotNumber": 7,
+    "slotLabel": "理由2",
+    "category": "D",
+    "categoryName": "社会责任",
+    "grammarType": "名词短语",
+    "chinese": "社区参与的重要性",
+    "english": "the importance of community participation",
+    "variant": "base",
+    "chunks": [
+      "the importance",
+      "of community participation"
+    ],
+    "explanation": "名词短语作 Another point worth considering is 后的表语；importance/value/need 是中心词，of 或 for 短语补充对象。"
+  },
+  {
+    "id": "s7-A-that",
+    "section": "第二段：论证主体后半部分",
+    "slotNumber": 7,
+    "slotLabel": "理由2",
+    "category": "A",
+    "categoryName": "教育学习",
+    "grammarType": "that + 完整句子（表语从句）",
+    "chinese": "实践经验有助于学生培养实用技能",
+    "english": "that practical experience helps students develop useful skills",
+    "variant": "that-clause",
+    "chunks": [
+      "that practical experience",
+      "helps students",
+      "develop useful skills"
+    ],
+    "explanation": "that 引导完整的表语从句，接在模板的 is 后；that 后必须有主语和谓语。名词短语版不需要额外加 that，两种版本不能作为同一种短语互换拆解。"
+  },
+  {
+    "id": "s7-B-that",
+    "section": "第二段：论证主体后半部分",
+    "slotNumber": 7,
+    "slotLabel": "理由2",
+    "category": "B",
+    "categoryName": "自律成长",
+    "grammarType": "that + 完整句子（表语从句）",
+    "chinese": "明确目标使长期进步更加容易",
+    "english": "that clear goals make long-term progress easier",
+    "variant": "that-clause",
+    "chunks": [
+      "that clear goals",
+      "make long-term progress",
+      "easier"
+    ],
+    "explanation": "that 引导完整的表语从句，接在模板的 is 后；that 后必须有主语和谓语。名词短语版不需要额外加 that，两种版本不能作为同一种短语互换拆解。"
+  },
+  {
+    "id": "s7-C-that",
+    "section": "第二段：论证主体后半部分",
+    "slotNumber": 7,
+    "slotLabel": "理由2",
+    "category": "C",
+    "categoryName": "科技AI",
+    "grammarType": "that + 完整句子（表语从句）",
+    "chinese": "使用技术时独立判断至关重要",
+    "english": "that independent judgment is essential when using technology",
+    "variant": "that-clause",
+    "chunks": [
+      "that independent judgment",
+      "is essential",
+      "when using technology"
+    ],
+    "explanation": "that 引导完整的表语从句，接在模板的 is 后；that 后必须有主语和谓语。名词短语版不需要额外加 that，两种版本不能作为同一种短语互换拆解。"
+  },
+  {
+    "id": "s7-D-that",
+    "section": "第二段：论证主体后半部分",
+    "slotNumber": 7,
+    "slotLabel": "理由2",
+    "category": "D",
+    "categoryName": "社会责任",
+    "grammarType": "that + 完整句子（表语从句）",
+    "chinese": "社区参与能够增强人们的责任感",
+    "english": "that community participation can strengthen people's sense of responsibility",
+    "variant": "that-clause",
+    "chunks": [
+      "that community participation",
+      "can strengthen",
+      "people's sense of responsibility"
+    ],
+    "explanation": "that 引导完整的表语从句，接在模板的 is 后；that 后必须有主语和谓语。名词短语版不需要额外加 that，两种版本不能作为同一种短语互换拆解。"
+  },
+  {
+    "id": "s8-A",
+    "section": "第二段：论证主体后半部分",
+    "slotNumber": 8,
+    "slotLabel": "必要条件",
+    "category": "A",
+    "categoryName": "教育学习",
+    "grammarType": "名词短语",
+    "chinese": "应用知识的机会",
+    "english": "opportunities to apply knowledge",
+    "variant": "base",
+    "chunks": [
+      "opportunities",
+      "to apply knowledge"
+    ],
+    "explanation": "本组实际都是名词短语，接在介词 Without 后。opportunities 后的 to apply knowledge 修饰机会，并非谓语。"
+  },
+  {
+    "id": "s8-B",
+    "section": "第二段：论证主体后半部分",
+    "slotNumber": 8,
+    "slotLabel": "必要条件",
+    "category": "B",
+    "categoryName": "自律成长",
+    "grammarType": "名词短语",
+    "chinese": "合理目标和持续努力",
+    "english": "realistic goals and regular effort",
+    "variant": "base",
+    "chunks": [
+      "realistic goals",
+      "and regular effort"
+    ],
+    "explanation": "本组实际都是名词短语，接在介词 Without 后。opportunities 后的 to apply knowledge 修饰机会，并非谓语。"
+  },
+  {
+    "id": "s8-C",
+    "section": "第二段：论证主体后半部分",
+    "slotNumber": 8,
+    "slotLabel": "必要条件",
+    "category": "C",
+    "categoryName": "科技AI",
+    "grammarType": "名词短语",
+    "chinese": "批判性思维能力",
+    "english": "critical thinking skills",
+    "variant": "base",
+    "chunks": [
+      "critical thinking",
+      "skills"
+    ],
+    "explanation": "本组实际都是名词短语，接在介词 Without 后。opportunities 后的 to apply knowledge 修饰机会，并非谓语。"
+  },
+  {
+    "id": "s8-D",
+    "section": "第二段：论证主体后半部分",
+    "slotNumber": 8,
+    "slotLabel": "必要条件",
+    "category": "D",
+    "categoryName": "社会责任",
+    "grammarType": "名词短语",
+    "chinese": "责任意识",
+    "english": "a sense of duty",
+    "variant": "base",
+    "chunks": [
+      "a sense",
+      "of duty"
+    ],
+    "explanation": "本组实际都是名词短语，接在介词 Without 后。opportunities 后的 to apply knowledge 修饰机会，并非谓语。"
+  },
+  {
+    "id": "s9-A",
+    "section": "第二段：论证主体后半部分",
+    "slotNumber": 9,
+    "slotLabel": "群体",
+    "category": "A",
+    "categoryName": "教育学习",
+    "grammarType": "名词或名词短语",
+    "chinese": "大学生",
+    "english": "college students",
+    "variant": "base",
+    "chunks": [
+      "college",
+      "students"
+    ],
+    "explanation": "本项接在 for 后，表示执行后续动作的群体。复数名词表示一类人；前面的修饰词限定群体。"
+  },
+  {
+    "id": "s9-B",
+    "section": "第二段：论证主体后半部分",
+    "slotNumber": 9,
+    "slotLabel": "群体",
+    "category": "B",
+    "categoryName": "自律成长",
+    "grammarType": "名词或名词短语",
+    "chinese": "年轻人",
+    "english": "young people",
+    "variant": "base",
+    "chunks": [
+      "young",
+      "people"
+    ],
+    "explanation": "本项接在 for 后，表示执行后续动作的群体。复数名词表示一类人；前面的修饰词限定群体。"
+  },
+  {
+    "id": "s9-C",
+    "section": "第二段：论证主体后半部分",
+    "slotNumber": 9,
+    "slotLabel": "群体",
+    "category": "C",
+    "categoryName": "科技AI",
+    "grammarType": "名词或名词短语",
+    "chinese": "技术使用者",
+    "english": "technology users",
+    "variant": "base",
+    "chunks": [
+      "technology",
+      "users"
+    ],
+    "explanation": "本项接在 for 后，表示执行后续动作的群体。复数名词表示一类人；前面的修饰词限定群体。"
+  },
+  {
+    "id": "s9-D",
+    "section": "第二段：论证主体后半部分",
+    "slotNumber": 9,
+    "slotLabel": "群体",
+    "category": "D",
+    "categoryName": "社会责任",
+    "grammarType": "名词或名词短语",
+    "chinese": "年轻人",
+    "english": "young people",
+    "variant": "base",
+    "chunks": [
+      "young",
+      "people"
+    ],
+    "explanation": "本项接在 for 后，表示执行后续动作的群体。复数名词表示一类人；前面的修饰词限定群体。"
+  },
+  {
+    "id": "s9-general-1",
+    "section": "第二段：论证主体后半部分",
+    "slotNumber": 9,
+    "slotLabel": "群体",
+    "category": "general",
+    "categoryName": "通用群体",
+    "grammarType": "名词或名词短语",
+    "chinese": "父母",
+    "english": "parents",
+    "variant": "general",
+    "chunks": [
+      "parents"
+    ],
+    "explanation": "本项接在 for 后，表示执行后续动作的群体。复数名词表示一类人；前面的修饰词限定群体。"
+  },
+  {
+    "id": "s9-general-2",
+    "section": "第二段：论证主体后半部分",
+    "slotNumber": 9,
+    "slotLabel": "群体",
+    "category": "general",
+    "categoryName": "通用群体",
+    "grammarType": "名词或名词短语",
+    "chinese": "教师",
+    "english": "teachers",
+    "variant": "general",
+    "chunks": [
+      "teachers"
+    ],
+    "explanation": "本项接在 for 后，表示执行后续动作的群体。复数名词表示一类人；前面的修饰词限定群体。"
+  },
+  {
+    "id": "s9-general-3",
+    "section": "第二段：论证主体后半部分",
+    "slotNumber": 9,
+    "slotLabel": "群体",
+    "category": "general",
+    "categoryName": "通用群体",
+    "grammarType": "名词或名词短语",
+    "chinese": "员工",
+    "english": "employees",
+    "variant": "general",
+    "chunks": [
+      "employees"
+    ],
+    "explanation": "本项接在 for 后，表示执行后续动作的群体。复数名词表示一类人；前面的修饰词限定群体。"
+  },
+  {
+    "id": "s9-general-4",
+    "section": "第二段：论证主体后半部分",
+    "slotNumber": 9,
+    "slotLabel": "群体",
+    "category": "general",
+    "categoryName": "通用群体",
+    "grammarType": "名词或名词短语",
+    "chinese": "当地社区",
+    "english": "local communities",
+    "variant": "general",
+    "chunks": [
+      "local",
+      "communities"
+    ],
+    "explanation": "本项接在 for 后，表示执行后续动作的群体。复数名词表示一类人；前面的修饰词限定群体。"
+  },
+  {
+    "id": "s9-general-5",
+    "section": "第二段：论证主体后半部分",
+    "slotNumber": 9,
+    "slotLabel": "群体",
+    "category": "general",
+    "categoryName": "通用群体",
+    "grammarType": "名词或名词短语",
+    "chinese": "城市居民",
+    "english": "city residents",
+    "variant": "general",
+    "chunks": [
+      "city",
+      "residents"
+    ],
+    "explanation": "本项接在 for 后，表示执行后续动作的群体。复数名词表示一类人；前面的修饰词限定群体。"
+  },
+  {
+    "id": "s10-A",
+    "section": "第二段：论证主体后半部分",
+    "slotNumber": 10,
+    "slotLabel": "目标",
+    "category": "A",
+    "categoryName": "教育学习",
+    "grammarType": "动词原形短语",
+    "chinese": "培养实践技能",
+    "english": "develop practical skills",
+    "variant": "base",
+    "chunks": [
+      "develop",
+      "practical skills"
+    ],
+    "explanation": "模板已经有 to，本项从动词原形开始，不再添加 to；动词后接宾语或必要的介词短语。"
+  },
+  {
+    "id": "s10-B",
+    "section": "第二段：论证主体后半部分",
+    "slotNumber": 10,
+    "slotLabel": "目标",
+    "category": "B",
+    "categoryName": "自律成长",
+    "grammarType": "动词原形短语",
+    "chinese": "为未来的挑战做好准备",
+    "english": "prepare for future challenges",
+    "variant": "base",
+    "chunks": [
+      "prepare for",
+      "future challenges"
+    ],
+    "explanation": "模板已经有 to，本项从动词原形开始，不再添加 to；动词后接宾语或必要的介词短语。"
+  },
+  {
+    "id": "s10-C",
+    "section": "第二段：论证主体后半部分",
+    "slotNumber": 10,
+    "slotLabel": "目标",
+    "category": "C",
+    "categoryName": "科技AI",
+    "grammarType": "动词原形短语",
+    "chinese": "识别不可靠的信息",
+    "english": "recognize unreliable information",
+    "variant": "base",
+    "chunks": [
+      "recognize",
+      "unreliable information"
+    ],
+    "explanation": "模板已经有 to，本项从动词原形开始，不再添加 to；动词后接宾语或必要的介词短语。"
+  },
+  {
+    "id": "s10-D",
+    "section": "第二段：论证主体后半部分",
+    "slotNumber": 10,
+    "slotLabel": "目标",
+    "category": "D",
+    "categoryName": "社会责任",
+    "grammarType": "动词原形短语",
+    "chinese": "为社会作出有意义的贡献",
+    "english": "make meaningful contributions to society",
+    "variant": "base",
+    "chunks": [
+      "make meaningful contributions",
+      "to society"
+    ],
+    "explanation": "模板已经有 to，本项从动词原形开始，不再添加 to；动词后接宾语或必要的介词短语。"
+  },
+  {
+    "id": "s11-A",
+    "section": "第二段：论证主体后半部分",
+    "slotNumber": 11,
+    "slotLabel": "关键因素",
+    "category": "A",
+    "categoryName": "教育学习",
+    "grammarType": "名词短语",
+    "chinese": "反馈与实际学习需求",
+    "english": "feedback and real learning needs",
+    "variant": "base",
+    "chunks": [
+      "feedback",
+      "and real learning needs"
+    ],
+    "explanation": "本组实际都是名词短语，接 paying attention to 后；这里的 to 是介词。and 连接两个关注对象。"
+  },
+  {
+    "id": "s11-B",
+    "section": "第二段：论证主体后半部分",
+    "slotNumber": 11,
+    "slotLabel": "关键因素",
+    "category": "B",
+    "categoryName": "自律成长",
+    "grammarType": "名词短语",
+    "chinese": "时间管理与个人目标",
+    "english": "time management and personal goals",
+    "variant": "base",
+    "chunks": [
+      "time management",
+      "and personal goals"
+    ],
+    "explanation": "本组实际都是名词短语，接 paying attention to 后；这里的 to 是介词。and 连接两个关注对象。"
+  },
+  {
+    "id": "s11-C",
+    "section": "第二段：论证主体后半部分",
+    "slotNumber": 11,
+    "slotLabel": "关键因素",
+    "category": "C",
+    "categoryName": "科技AI",
+    "grammarType": "名词短语",
+    "chinese": "信息准确性与个人隐私",
+    "english": "information accuracy and personal privacy",
+    "variant": "base",
+    "chunks": [
+      "information accuracy",
+      "and personal privacy"
+    ],
+    "explanation": "本组实际都是名词短语，接 paying attention to 后；这里的 to 是介词。and 连接两个关注对象。"
+  },
+  {
+    "id": "s11-D",
+    "section": "第二段：论证主体后半部分",
+    "slotNumber": 11,
+    "slotLabel": "关键因素",
+    "category": "D",
+    "categoryName": "社会责任",
+    "grammarType": "名词短语",
+    "chinese": "他人的需求与共同目标",
+    "english": "other people's needs and shared goals",
+    "variant": "base",
+    "chunks": [
+      "other people's needs",
+      "and shared goals"
+    ],
+    "explanation": "本组实际都是名词短语，接 paying attention to 后；这里的 to 是介词。and 连接两个关注对象。"
+  },
+  {
+    "id": "s12-A",
+    "section": "第三段：总结观点",
+    "slotNumber": 12,
+    "slotLabel": "重申观点",
+    "category": "A",
+    "categoryName": "教育学习",
+    "grammarType": "完整句子",
+    "chinese": "学生应该将自主学习与规律练习相结合",
+    "english": "students should combine independent learning with regular practice",
+    "variant": "base",
+    "chunks": [
+      "students should",
+      "combine independent learning",
+      "with regular practice"
+    ],
+    "explanation": "以主语 + should + 动词原形重申观点。注意 combine A with B、work towards、give up doing、turn A into B 等搭配。"
+  },
+  {
+    "id": "s12-B",
+    "section": "第三段：总结观点",
+    "slotNumber": 12,
+    "slotLabel": "重申观点",
+    "category": "B",
+    "categoryName": "自律成长",
+    "grammarType": "完整句子",
+    "chinese": "学生应该养成良好习惯并朝着明确目标努力",
+    "english": "students should build good habits and work towards clear goals",
+    "variant": "base",
+    "chunks": [
+      "students should",
+      "build good habits",
+      "and work towards",
+      "clear goals"
+    ],
+    "explanation": "以主语 + should + 动词原形重申观点。注意 combine A with B、work towards、give up doing、turn A into B 等搭配。"
+  },
+  {
+    "id": "s12-C",
+    "section": "第三段：总结观点",
+    "slotNumber": 12,
+    "slotLabel": "重申观点",
+    "category": "C",
+    "categoryName": "科技AI",
+    "grammarType": "完整句子",
+    "chinese": "我们应该负责任地使用技术，同时不放弃独立思考",
+    "english": "we should use technology responsibly without giving up independent thinking",
+    "variant": "base",
+    "chunks": [
+      "we should",
+      "use technology responsibly",
+      "without giving up",
+      "independent thinking"
+    ],
+    "explanation": "以主语 + should + 动词原形重申观点。注意 combine A with B、work towards、give up doing、turn A into B 等搭配。"
+  },
+  {
+    "id": "s12-D",
+    "section": "第三段：总结观点",
+    "slotNumber": 12,
+    "slotLabel": "重申观点",
+    "category": "D",
+    "categoryName": "社会责任",
+    "grammarType": "完整句子",
+    "chinese": "年轻人应该将责任感转化为日常行动",
+    "english": "young people should turn their sense of responsibility into daily action",
+    "variant": "base",
+    "chunks": [
+      "young people should",
+      "turn their sense of responsibility",
+      "into daily action"
+    ],
+    "explanation": "以主语 + should + 动词原形重申观点。注意 combine A with B、work towards、give up doing、turn A into B 等搭配。"
+  }
+]
